@@ -1,2 +1,0 @@
-# blocbox
-Rebecca Behrens
