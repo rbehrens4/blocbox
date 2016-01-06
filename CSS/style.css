@@ -386,6 +386,9 @@ p {
    text-align: center;
    margin-right:8px;
  }
+.active {
+  background-color:#333333;
+}
   /* LEFT NAVBAR SETTINGS */
  .left-nav .settings {
    position:absolute;
@@ -435,7 +438,6 @@ p {
    font-size: 36px;
    color: #3498DB;
    line-height: 44px;
-   float: left;
    display:inline-block;
  }
  .content .header > a {
